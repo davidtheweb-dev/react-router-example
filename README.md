@@ -1,11 +1,13 @@
-# Title
+# React router example
 
-Description. Free to copy, modify and use.
+React router example (w/ actions, loaders, etc.). Fetching data from dummy node API REST. Dummy events list app. Free to copy, modify and use.
 
-## Subtitle
+## Home page
 
-<!-- ![Quiz-1](https://github.com/davidtheweb-dev/quiz-game/assets/71373942/c79a2aaf-7a36-4c29-b28e-8e319483a80d) -->
+![image](https://github.com/davidtheweb-dev/react-router-example/assets/71373942/efde78cd-1bef-4917-8663-ed7cd70b399a)
 
-## Subtitle
 
-<!-- ![Quiz-2](https://github.com/davidtheweb-dev/quiz-game/assets/71373942/ad86060d-3487-412b-aa39-5bb6f2ff739d) -->
+## New events form
+
+![image](https://github.com/davidtheweb-dev/react-router-example/assets/71373942/a09217f3-3073-4c14-a284-f58beb83be2c)
+
